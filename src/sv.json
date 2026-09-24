@@ -4477,9 +4477,6 @@
       "calloutWarning": "Varning",
       "calloutError": "Fel",
       "calloutNote": "Obs"
-    },
-    "workflow-designer": {
-      "unsupportedComponent": "Komponenttyp som inte stöds"
     }
   }
 }

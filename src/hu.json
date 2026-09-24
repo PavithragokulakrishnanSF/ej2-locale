@@ -4476,9 +4476,6 @@
       "calloutWarning": "Figyelmeztetés",
       "calloutError": "Hiba",
       "calloutNote": "Megjegyzés"
-    },
-    "workflow-designer": {
-      "unsupportedComponent": "Nem támogatott komponenstípus"
     }
   }
 }

@@ -4475,9 +4475,6 @@
       "calloutWarning": "Varoitus",
       "calloutError": "Virhe",
       "calloutNote": "Huom"
-    },
-    "workflow-designer": {
-      "unsupportedComponent": "Komponenttityyppiä ei tueta"
     }
   }
 }

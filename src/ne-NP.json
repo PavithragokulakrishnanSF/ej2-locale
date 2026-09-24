@@ -4478,9 +4478,6 @@
       "calloutWarning": "चेतावनी",
       "calloutError": "त्रुटि",
       "calloutNote": "नोट"
-    },
-    "workflow-designer": {
-      "unsupportedComponent": "असमर्थित कम्पोनेन्ट प्रकार"
     }
   }
 }

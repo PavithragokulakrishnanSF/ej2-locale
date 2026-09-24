@@ -4476,9 +4476,6 @@
       "calloutWarning": "Amaran",
       "calloutError": "ralat",
       "calloutNote": "Nota"
-    },
-    "workflow-designer": {
-      "unsupportedComponent": "Jenis Komponen tidak disokong"
     }
   }
 }

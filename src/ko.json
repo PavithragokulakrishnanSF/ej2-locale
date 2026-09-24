@@ -4479,9 +4479,6 @@
       "calloutWarning": "경고",
       "calloutError": "오류",
       "calloutNote": "참고"
-    },
-    "workflow-designer": {
-      "unsupportedComponent": "지원되지 않는 구성요소 유형"
     }
   }
 }

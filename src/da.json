@@ -4475,9 +4475,6 @@
       "calloutWarning": "Advarsel",
       "calloutError": "Fejl",
       "calloutNote": "Bemærk"
-    },
-    "workflow-designer": {
-      "unsupportedComponent": "Ikke-understøttet komponenttype"
     }
   }
 }

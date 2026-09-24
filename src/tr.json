@@ -4476,9 +4476,6 @@
       "calloutWarning": "Uyarı",
       "calloutError": "Hata",
       "calloutNote": "Not"
-    },
-    "workflow-designer": {
-      "unsupportedComponent": "Desteklenmeyen Bileşen türü"
     }
   }
 }

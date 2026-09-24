@@ -4537,9 +4537,6 @@
       "calloutWarning": "Warning",
       "calloutError": "Error",
       "calloutNote": "Note"
-    },
-    "workflow-designer": {
-      "unsupportedComponent": "Unsupported Component type"
     }
   }
 }

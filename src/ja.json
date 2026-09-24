@@ -4476,9 +4476,6 @@
       "calloutWarning": "警告",
       "calloutError": "エラー",
       "calloutNote": "注記"
-    },
-    "workflow-designer": {
-      "unsupportedComponent": "サポートされていないコンポーネントの種類"
     }
   }
 }

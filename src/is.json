@@ -4301,9 +4301,6 @@
       "calloutWarning": "Viðvörun",
       "calloutError": "Villa",
       "calloutNote": "Athugið"
-    },
-    "workflow-designer": {
-      "unsupportedComponent": "Óstudd tegund íhluta"
     }
   }
 }

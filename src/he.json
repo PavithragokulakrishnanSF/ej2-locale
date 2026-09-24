@@ -4476,9 +4476,6 @@
       "calloutWarning": "אזהרה",
       "calloutError": "שגיאה",
       "calloutNote": "הערה"
-    },
-    "workflow-designer": {
-      "unsupportedComponent": "סוג רכיב לא נתמך"
     }
   }
 }

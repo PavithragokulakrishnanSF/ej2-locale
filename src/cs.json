@@ -4475,9 +4475,6 @@
       "calloutWarning": "Varování",
       "calloutError": "Chyba",
       "calloutNote": "Poznámka"
-    },
-    "workflow-designer": {
-      "unsupportedComponent": "Nepodporovaný typ součásti"
     }
   }
 }

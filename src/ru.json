@@ -4478,9 +4478,6 @@
       "calloutWarning": "Предупреждение",
       "calloutError": "Ошибка",
       "calloutNote": "Примечание"
-    },
-    "workflow-designer": {
-      "unsupportedComponent": "Неподдерживаемый тип компонента"
     }
   }
 }

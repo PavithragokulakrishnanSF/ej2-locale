@@ -4541,9 +4541,6 @@
       "calloutWarning": "Avertissement",
       "calloutError": "Erreur",
       "calloutNote": "Remarque"
-    },
-    "workflow-designer": {
-      "unsupportedComponent": "Type de composant non pris en charge"
     }
   }
 }

@@ -4540,9 +4540,6 @@
       "calloutWarning": "警告",
       "calloutError": "错误",
       "calloutNote": "注意事项"
-    },
-    "workflow-designer": {
-      "unsupportedComponent": "不支持的组件类型"
     }
   }
 }

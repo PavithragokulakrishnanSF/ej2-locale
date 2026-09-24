@@ -4476,9 +4476,6 @@
       "calloutWarning": "Cảnh báo",
       "calloutError": "Lỗi",
       "calloutNote": "Lưu ý"
-    },
-    "workflow-designer": {
-      "unsupportedComponent": "Loại thành phần không được hỗ trợ"
     }
   }
 }

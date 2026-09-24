@@ -4355,9 +4355,6 @@
       "calloutWarning": "هشدار",
       "calloutError": "خطا",
       "calloutNote": "توجه داشته باشید"
-    },
-    "workflow-designer": {
-      "unsupportedComponent": "نوع مؤلفه پشتیبانی نشده"
     }
   }
 }

@@ -4476,9 +4476,6 @@
       "calloutWarning": "Peringatan",
       "calloutError": "Kesalahan",
       "calloutNote": "Catatan"
-    },
-    "workflow-designer": {
-      "unsupportedComponent": "Jenis Komponen tidak didukung"
     }
   }
 }

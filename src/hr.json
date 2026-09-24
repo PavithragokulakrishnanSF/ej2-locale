@@ -4476,9 +4476,6 @@
       "calloutWarning": "Upozorenje",
       "calloutError": "Greška",
       "calloutNote": "Napomena"
-    },
-    "workflow-designer": {
-      "unsupportedComponent": "Nepodržana vrsta komponente"
     }
   }
 }

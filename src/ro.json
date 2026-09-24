@@ -4479,9 +4479,6 @@
       "calloutWarning": "Avertisment",
       "calloutError": "Eroare",
       "calloutNote": "Notă"
-    },
-    "workflow-designer": {
-      "unsupportedComponent": "Tip de componentă neacceptat"
     }
   }
 }

@@ -4480,9 +4480,6 @@
       "calloutWarning": "Waarschuwing",
       "calloutError": "Fout",
       "calloutNote": "Let op"
-    },
-    "workflow-designer": {
-      "unsupportedComponent": "Niet-ondersteund componenttype"
     }
   }
 }

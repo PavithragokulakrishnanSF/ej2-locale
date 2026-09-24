@@ -4540,9 +4540,6 @@
       "calloutWarning": "Warnung",
       "calloutError": "Fehler",
       "calloutNote": "Hinweis"
-    },
-    "workflow-designer": {
-      "unsupportedComponent": "Nicht unterstützter Komponententyp"
     }
   }
 }
